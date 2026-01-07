@@ -1,6 +1,5 @@
 # TOP-Landing-Page
-This is my Landing Page project for TOP.
-
+    This is my Landing Page project for TOP.
     Working on this project forced the realization that coding
 in general is difficult even when you manage to wrangle the
 syntax at long last. There were many concepts the program
