@@ -81,6 +81,7 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-bottom: 60px;
 }
 
 h1 {
@@ -110,6 +111,22 @@ h1 {
     height: 100%;
     object-fit: cover;
     display: block;
+}
+
+.sub-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.subtext {
+    text-align: center;
+    font-size: 16px;
+    color: #1F2937;
+    max-width: 150px;
+    max-height: 150px;
 }
 
 #links {
