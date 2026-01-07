@@ -200,6 +200,20 @@ h4 {
     padding: 6px 30px;
 }
 
+.footer {
+    display: flex;
+    flex-wrap: wrap;
+    min-width: 800px;
+    width: 100%;
+    box-sizing: border-box;
+    font-size: 18px;
+    color: #F9FAF8;
+    background-color: #1F2937;
+    color: white;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+}
 #links {
     display: flex;
     justify-content: space-between;
